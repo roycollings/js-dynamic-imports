@@ -1,3 +1,3 @@
 const homePage = require(`./pages/home`)
 
-homePage.menu.console.log(homePage)
+console.log(homePage)

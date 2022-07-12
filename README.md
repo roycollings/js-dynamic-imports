@@ -5,7 +5,7 @@ The `__template.js` file contains the 'shape' of the page object and any default
 The android/web/whatever files only need to contain default overrides.
 
 ## Setup
-npm install
+This has no dependencies, so nothing to set up ;-)
 
 ## Run
 ```
